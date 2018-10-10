@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.0.0.1</version>
+    <version>4.0.0.0</version>
     <url>https://github.com/NALZA/update/raw/master/UPDATE.zip</url>
     <mandatory>false</mandatory>
 </item>
